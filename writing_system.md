@@ -56,6 +56,8 @@ Never repeat a striking phrase, image, or metaphor within a chapter. If you used
 
 Keep metaphors grounded in a single domain. Don't mix sources within a passage — if you're comparing something to water, don't switch to fire mid-image. The best metaphors come from the character's own world.
 
+Use paragraph length as a pacing instrument. Build tension with shorter paragraphs — three lines, then two, then one. A single-sentence paragraph is a punch; use it at the moment of revelation, decision, or shock, never for routine narration. In reflective passages, let paragraphs expand to five or six sentences, each adding a layer. The reader's eye should feel the rhythm shift before their mind registers why.
+
 **Rule:** After drafting, cut every word that doesn't earn its place. Read aloud — if you stumble, rewrite.
 
 ## 7. Scene Transitions
