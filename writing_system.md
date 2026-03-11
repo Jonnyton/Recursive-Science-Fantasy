@@ -42,6 +42,12 @@ Each point-of-view character should have a distinct internal vocabulary shaped b
 
 Favor concrete nouns and active verbs over adjectives and adverbs. Read your sentences aloud — if you stumble, rewrite. Avoid filter words ("she saw," "he felt," "they noticed") — put the reader directly in the experience. Vary sentence structure to match emotional content: short punches for action, longer flowing rhythms for reflection, fragments for shock.
 
+Never name an emotion directly ("She felt grief," "Fear filled him"). Instead, show the emotion through the body and through action: hands that won't stop shaking, a sudden inability to swallow, laughter that comes out too sharp. The reader should feel the emotion without being told its name.
+
+Never repeat a striking phrase, image, or metaphor within a chapter. If you used an image once and it worked, find a different one next time — repetition dilutes impact. Each scene must advance; if dialogue or narration circles back to the same point, the chapter has stalled.
+
+Keep metaphors simple and grounded in a single domain. Don't mix metaphor sources within a sentence or passage — if you're comparing something to water, don't switch to fire mid-image. The best metaphors come from the character's own world and expertise, not from a generic literary palette.
+
 **Rule:** After drafting, do one pass where you cut every word that doesn't earn its place.
 
 ## 7. Magic and Wonder
