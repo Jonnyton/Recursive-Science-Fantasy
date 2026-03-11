@@ -18,7 +18,11 @@ The space between scenes is where amateurs lose readers. A transition must do th
 
 ## 3. Pacing Across Length
 
+A full chapter runs approximately 4000 words and contains 3-5 distinct scenes or beats, separated by scene breaks ("* * *" on their own line). Each scene should run 600-1200 words, with its own mini-arc: a small goal, an obstacle, and a shift. This multi-scene structure creates natural rhythm.
+
 A chapter must breathe. Relentless action exhausts; unbroken reflection bores. Alternate between compression (fast, tense, external) and expansion (slow, reflective, internal). Use short paragraphs and punchy sentences to accelerate. Use longer, more rhythmic prose to decelerate. The reader should feel the tempo shifting like music.
+
+Structure the pacing in waves: Scene 1 (medium tension — establish situation), Scene 2 (rising — complication), Scene 3 (peak — confrontation or revelation), Scene 4 (falling — aftermath and processing), Scene 5 (pivot — new question or decision that ends the chapter). Not every chapter needs all five, but aim for at least three distinct scenes with clear breaks between them.
 
 **Rule:** After every high-intensity beat, give the reader (and the character) a moment to absorb what happened — but make that quiet moment do double duty by advancing character or worldbuilding.
 
