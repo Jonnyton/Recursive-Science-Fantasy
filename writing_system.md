@@ -94,8 +94,6 @@ Each scene within a chapter should run 600-1200 words with its own mini-arc: a s
 
 Avoid the first image that comes to mind — it's probably a cliche. Find the second or third. Never reach for generic metaphors (heart pounding, blood running cold, steeling oneself) when the character's own expertise offers something specific no other story would use.
 
-Banned images — these are AI-typical and must never appear: ozone taste, copper taste of magic, eyes described by gemstone color (sapphire, emerald, obsidian), white fire, silver light, ancient power stirring, weight settling in chest, breath caught in throat, heart hammering. Replace each with something only THIS character in THIS world would perceive. A thief tastes adrenaline as sour spit. A smith feels magic as the wrongness of cold iron vibrating. A healer senses power as the ache in a phantom limb.
-
 Fantasy has deep conventions. Use them as a foundation, then subvert, complicate, or recontextualize. The reader should feel they're encountering something that couldn't exist in any other story.
 
 **Rule:** For every scene, ask: "What would the reader expect here?" Then do something different — not for shock, but because reality is stranger and more interesting than convention.
