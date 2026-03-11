@@ -30,8 +30,6 @@ Never name an emotion directly. "She felt grief" is a failure. Instead: her hand
 
 Earned emotion comes from accumulation, not announcement. Build through small, specific moments so the big beats land. A character's breaking point hits harder when we've watched them hold it together through three scenes of small indignities.
 
-Give every major emotion a physical object or small repeated action as its anchor. Grief lives in the cup she still sets out for two. Guilt is the scar he keeps touching through his sleeve. Fear is the way her hand checks the door lock three times before she can cross a room. These anchors do more work than any internal monologue — the reader recognizes the behavior before they can name the feeling.
-
 **Rule:** For every fantastical plot beat, identify the real human emotion underneath it and write toward that. The magic is the vehicle; the feeling is the destination.
 
 ## 4. Chapter Architecture
