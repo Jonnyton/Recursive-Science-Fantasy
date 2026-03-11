@@ -38,8 +38,6 @@ A chapter is a unit of story with its own dramatic shape. It opens with a hook t
 
 Structure in waves: establish (medium tension), complicate (rising), confront (peak), process (falling), pivot (new question that ends the chapter). Not every chapter needs all five beats, but aim for at least three distinct movements with clear scene breaks ("* * *") between them.
 
-Every paragraph must advance beyond the previous one. If the character realized something in paragraph four, paragraph five must respond to or build on that realization — never restate it. When you find yourself circling back to an emotional beat you already hit, ask: "What's the NEXT thing this character would feel, think, or do?" The answer is always forward.
-
 **Rule:** Every chapter should leave the character in a different emotional place than where they started. If nothing has changed internally, the chapter hasn't earned its length.
 
 ## 5. Character Voice as Prose Engine
