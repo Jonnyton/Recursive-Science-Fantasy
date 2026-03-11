@@ -66,8 +66,4 @@ Open in motion — the reader should feel they've arrived in the middle of somet
 
 Fantasy has deep genre conventions. Use them as a foundation, then subvert, complicate, or recontextualize them. Avoid the first image that comes to mind — it's probably a cliché. Find the second or third. Surprising metaphors, unexpected character reactions, and unconventional narrative choices are what separate memorable fiction from competent fiction.
 
-**Technique — Character-sourced metaphors:** Every POV character has a craft, trade, or obsession. Draw ALL figurative language from that specific domain. A healer compares tension to a wound going septic. A cartographer sees arguments as boundary disputes. A smith reads mood in the color of heated metal. Never reach for generic metaphors (heart pounding, blood running cold) when the character's own expertise offers something no other story would use.
-
-**Technique — Estranged reactions:** When characters encounter the fantastical, skip the expected response. Fear can manifest as hysterical laughter or sudden hunger. Awe can feel like nausea. Wonder can arrive as irritation at the world refusing to make sense. Ground every reaction in specific physiological detail — shaking hands, dry mouth, a sudden need to sit down — rather than named emotions.
-
 **Rule:** For every scene, ask: "What would the reader expect to happen here?" Then consider doing something different — not for shock value, but because reality is stranger and more interesting than convention.
