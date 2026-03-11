@@ -36,7 +36,9 @@ Ground your fantasy world in concrete, specific details woven into the action. I
 
 Each point-of-view character should have a distinct internal vocabulary shaped by their background. A blacksmith thinks in metaphors of heat and metal. A thief notices exits and valuables. This isn't just dialogue — it's narration filtered through a specific mind. Over the course of a chapter, the character's interiority should deepen: we should know them better by the end than the beginning.
 
-**Rule:** Before writing a chapter, ask: "What would this character notice first in every setting, and what word would they use for it?"
+The character's voice should shape sentence structure itself. A soldier thinks in short, declarative fragments — threat assessment, positioning, contingency. A scholar qualifies and cross-references mid-thought. A craftsperson's narration follows process: first this, then this, and if this goes wrong, that. Let the character's way of thinking determine the rhythm of the prose, not just its content.
+
+**Rule:** Before writing a chapter, ask: "What would this character notice first in every setting, and what word would they use for it?" Then ask: "How does this character's mind organize information — in lists, in cause-and-effect chains, in sensory impressions, in risk calculations?"
 
 ## 6. Prose Craft
 
