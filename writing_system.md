@@ -20,6 +20,8 @@ Each speaker should sound unmistakably themselves. A soldier clips words and sta
 
 The best dialogue has subtext — the conversation underneath the conversation. Two characters arguing about whether to take the mountain pass are also arguing about who gets to lead. A healer explaining treatment is also establishing dominance over a patient who won't rest.
 
+Never let dialogue run longer than three exchanges without an action beat — a gesture, a glance, a physical task that continues while characters talk. These beats do triple duty: they break up walls of speech, ground the reader in the physical scene, and reveal what characters do with their bodies when their mouths are saying something else. A character who agrees while backing toward the door is telling two stories at once.
+
 **Rule:** If you can swap two characters' dialogue and nobody would notice, the dialogue has failed. If removing a line of dialogue loses no character information, cut it.
 
 ## 3. Emotional Truth Over Fantasy Convention
