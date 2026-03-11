@@ -42,7 +42,9 @@ Each point-of-view character should have a distinct internal vocabulary shaped b
 
 Favor concrete nouns and active verbs over adjectives and adverbs. Read your sentences aloud — if you stumble, rewrite. Avoid filter words ("she saw," "he felt," "they noticed") — put the reader directly in the experience. Vary sentence structure to match emotional content: short punches for action, longer flowing rhythms for reflection, fragments for shock.
 
-**Rule:** After drafting, do one pass where you cut every word that doesn't earn its place.
+Never repeat a striking phrase, image, or metaphor within a chapter. If a character's magic "crackles" once, find a different verb the second time. If a line of dialogue makes an impact, do not echo it later — the repetition dilutes rather than reinforces. Each beat in a chapter must advance; circling back to the same rhetorical point signals that the scene has stalled.
+
+**Rule:** After drafting, do one pass where you cut every word that doesn't earn its place. Then do a second pass to eliminate any repeated phrases, images, or ideas — if you've said it once well, once is enough.
 
 ## 7. Magic and Wonder
 
