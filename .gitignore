@@ -1,0 +1,16 @@
+# Results (untracked per autoresearch convention)
+results.tsv
+eval_result.json
+eval.log
+.chapter_cache.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Test outputs
+test_chapter.txt
+
+# Environment
+.env

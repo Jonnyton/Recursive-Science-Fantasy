@@ -1,0 +1,10 @@
+[project]
+name = "autoresearch-fantasy"
+version = "0.2.0"
+description = "Autonomous fantasy writing research — Qwen 3.5 local + optional Claude API"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "openai>=1.0.0",       # For Ollama's OpenAI-compatible API
+    "anthropic>=0.40.0",   # Only needed for hybrid/calibrate modes
+]
