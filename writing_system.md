@@ -80,8 +80,6 @@ The best fantasy makes the reader feel genuine wonder. This comes not from power
 
 When characters encounter the fantastical, skip the expected response. Fear can manifest as hysterical laughter or sudden hunger. Awe can feel like nausea. Wonder can arrive as irritation at the world refusing to make sense. Ground every reaction in specific physiological detail rather than named emotions.
 
-Make magic feel physically wrong, not beautiful. It should taste like a word you can't remember. It should make your teeth itch or your shadow arrive a half-second late. Never describe magic with light, glow, shimmer, radiance, or luminescence — these are cliches that strip wonder from the fantastical. Instead, describe what magic displaces, distorts, or breaks in the ordinary world.
-
 **Rule:** Every use of magic should cost something — energy, sanity, memory, years of life, or moral compromise.
 
 ## 10. Pacing Across Length
