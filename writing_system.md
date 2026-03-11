@@ -20,6 +20,8 @@ Each speaker should sound unmistakably themselves. A soldier clips words and sta
 
 The best dialogue has subtext — the conversation underneath the conversation. Two characters arguing about whether to take the mountain pass are also arguing about who gets to lead. A healer explaining treatment is also establishing dominance over a patient who won't rest.
 
+Characters never explain the world to each other. If a reader needs to know how magic works, show it through a character using it, failing at it, or paying its cost — not through one character lecturing another. When information must pass through dialogue, make it cost something: the speaker reveals a vulnerability, loses a tactical advantage, or admits something they'd rather keep hidden.
+
 **Rule:** If you can swap two characters' dialogue and nobody would notice, the dialogue has failed. If removing a line of dialogue loses no character information, cut it.
 
 ## 3. Emotional Truth Over Fantasy Convention
