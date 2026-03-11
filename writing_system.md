@@ -66,4 +66,12 @@ Open in motion — the reader should feel they've arrived in the middle of somet
 
 Fantasy has deep genre conventions. Use them as a foundation, then subvert, complicate, or recontextualize them. Avoid the first image that comes to mind — it's probably a cliché. Find the second or third. Surprising metaphors, unexpected character reactions, and unconventional narrative choices are what separate memorable fiction from competent fiction.
 
+**Clichés to actively avoid:**
+- Eyes described as "orbs." Storms that mirror emotions. Characters clenching fists or jaws to show anger.
+- Magic that glows blue/gold/silver with no texture beyond light. Prophecies that are straightforwardly fulfilled.
+- Villains who monologue. Chosen ones who reluctantly accept destiny. Wise mentors who speak in riddles.
+- Metaphors from the "fantasy default" palette: fire for anger, ice for calm, storms for turmoil, darkness for evil.
+
+**Fresh alternatives:** Draw metaphors from the character's specific world — a sailor thinks in tides and knots, a baker in rising dough and crust. Let magic have unexpected textures: a smell of copper and ozone, a sound like tearing silk, a taste of someone else's memory. Give characters reactions that are psychologically real rather than genre-conventional — fear can manifest as hysterical laughter, grief as sudden hunger, courage as nausea.
+
 **Rule:** For every scene, ask: "What would the reader expect to happen here?" Then consider doing something different — not for shock value, but because reality is stranger and more interesting than convention.
