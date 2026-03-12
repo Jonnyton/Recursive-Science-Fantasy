@@ -52,7 +52,7 @@ This isn't decoration — it's the fundamental texture of the chapter. Sentence 
 
 Favor concrete nouns and active verbs. Avoid filter words ("she saw," "he felt," "they noticed") — put the reader directly in the experience. Vary sentence structure to match emotional content: short punches for action, flowing rhythms for reflection, fragments for shock.
 
-Never repeat a striking phrase, image, or metaphor within a chapter. If you used an image once, find a different one. Each scene must advance; if dialogue or narration circles back to the same point, the chapter has stalled. Within any 500-word span, no sentence pattern, verb-noun pair, or character action should appear twice — if a character "looked at" something, the next observation must use a different verb entirely.
+Never repeat a striking phrase, image, or metaphor within a chapter. If you used an image once, find a different one. Each scene must advance; if dialogue or narration circles back to the same point, the chapter has stalled.
 
 Keep metaphors grounded in a single domain. Don't mix sources within a passage — if you're comparing something to water, don't switch to fire mid-image. The best metaphors come from the character's own world.
 
