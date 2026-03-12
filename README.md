@@ -1,1 +1,1 @@
-# Recursive-Science-Fantasy
+# AutoResearch Fantasy
