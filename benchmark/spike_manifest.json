@@ -1,0 +1,89 @@
+{
+  "source_book": "The King of Elfland's Daughter",
+  "author": "Lord Dunsany",
+  "num_chapters": 5,
+  "name_map": {
+    "characters": {
+      "Alveric": "Kaelen the Unbroken",
+      "Alveric's Son": "Kaelen the Younger",
+      "Guhic": "Thrum",
+      "Lirazel": "Sylvara",
+      "Narl": "Borin",
+      "Princess Lirazel": "Princess Sylvara",
+      "The Elf King": "King Thalandor",
+      "The Four Knights": "The Iron Guard",
+      "The Freer": "The Liberator",
+      "The Last Knight": "The Final Sentinel",
+      "The Lord of Erl": "Lord Vaelen",
+      "The Old Leather-worker": "Master Taren",
+      "The Old Wife": "Matriarch Elara",
+      "The Parliament of Erl": "The High Council of Vaelis",
+      "The Witch": "Madame Morvath",
+      "The Witch (Ziroonderel)": "Madame Morvath"
+    },
+    "locations": {
+      "Castle of Erl": "Fortress of Vaelis",
+      "Elfland": "Sylvaris",
+      "Fields of Erl": "Vale of Vaelen",
+      "Palace of Elfland": "Spire of Sylvaris",
+      "The Castle of Erl": "Fortress of Vaelis",
+      "The Cottage": "The Thatched Hut",
+      "The Enchanted Wood": "The Whispering Weald",
+      "The Fields of Earth": "The Dust Plains",
+      "The Frontier of Twilight": "The Dusk Borderlands",
+      "The Great Forge of Narl": "The Anvil of Borin",
+      "The Hill of the Lonely Witch": "Morvath's Peak",
+      "The Holy Place of the Freer": "The Sanctum of Liberty",
+      "The Lawns of Elfland": "The Verdant Courts",
+      "The Long Chamber": "The Hall of Echoes",
+      "The Nursery": "The Cradle Room",
+      "The Palace of Elfland": "Spire of Sylvaris",
+      "The Vale of Erl": "Vale of Vaelen",
+      "Witch's Hill/Cottage": "Morvath's Peak"
+    },
+    "world_name": "Aethelgard"
+  },
+  "series_summary": "This is an ongoing fantasy novel set in Aethelgard. Maintain continuity across chapters. Core cast so far: Lord Vaelen, Kaelen the Unbroken, Madame Morvath, Princess Sylvara. Key places so far: Fortress of Vaelis, Vale of Vaelen, Spire of Sylvaris. Opening movement: This chapter introduces the protagonist Kaelen the Unbroken, establishes his quest to marry a princess of Sylvaris, and features the creation of an enchanted blade by a mysterious sorceress.",
+  "artifacts": [
+    {
+      "chapter": 1,
+      "source_canon": "benchmark/source_canon\\chapter_01_canon.json",
+      "remixed_canon": "benchmark/remixed_canon\\chapter_01_remixed.json",
+      "chapter_spec": "benchmark/chapter_specs\\chapter_01_spec.md",
+      "source_input": "benchmark/spike_inputs\\chapter_01.txt",
+      "recent_summary": "Chapter 1: This chapter introduces the protagonist Kaelen the Unbroken, establishes his quest to marry a princess of Sylvaris, and features the creation of an enchanted blade by a mysterious sorceress. Key developments: The High Council of Vaelis demands an arcane lord to rule them.; Lord Vaelen commands Kaelen to travel east to Sylvaris and wed the King's daughter.; Kaelen visits Madame Morvath on her peak to gather lightning bolts.. Emotional arc: curiosity and duty -> awe and melancholy."
+    },
+    {
+      "chapter": 2,
+      "source_canon": "benchmark/source_canon\\chapter_02_canon.json",
+      "remixed_canon": "benchmark/remixed_canon\\chapter_02_remixed.json",
+      "chapter_spec": "benchmark/chapter_specs\\chapter_02_spec.md",
+      "source_input": "benchmark/spike_inputs\\chapter_02.txt",
+      "recent_summary": "Chapter 2: This chapter depicts Kaelen the Unbroken's departure from the mundane world, his acquisition of a sheath, and his entry into the enchanted realm of Sylvaris, setting the stage for his quest to reach the spire. Key developments: Kaelen awakens in his tower, rejoicing over the magical blade given by Madame Morvath.; Kaelen leaves the Fortress of Vaelis, carrying his magical blade and a flask of water.; Kaelen visits the Thatched Hut to get a sheath for his blade.. Emotional arc: joy and determination -> curiosity and awe."
+    },
+    {
+      "chapter": 3,
+      "source_canon": "benchmark/source_canon\\chapter_03_canon.json",
+      "remixed_canon": "benchmark/remixed_canon\\chapter_03_remixed.json",
+      "chapter_spec": "benchmark/chapter_specs\\chapter_03_spec.md",
+      "source_input": "benchmark/spike_inputs\\chapter_03.txt",
+      "recent_summary": "Chapter 3: This chapter depicts Kaelen the Unbroken's journey through the Whispering Weald, his first encounter with Princess Sylvara, and his initial battle against the Spire's guardians, establishing the stakes of his quest and the power of his enchanted steel. Key developments: Kaelen enters the Whispering Weald and is assaulted by living creepers from ancient pines.; Kaelen draws his enchanted steel and dispels a moving pine tree.; Pine trees begin to close in on Kaelen, forming a crescent to crush him.. Emotional arc: caution and determination -> awe and wonder -> sorrow and urgency."
+    },
+    {
+      "chapter": 4,
+      "source_canon": "benchmark/source_canon\\chapter_04_canon.json",
+      "remixed_canon": "benchmark/remixed_canon\\chapter_04_remixed.json",
+      "chapter_spec": "benchmark/chapter_specs\\chapter_04_spec.md",
+      "source_input": "benchmark/spike_inputs\\chapter_04.txt",
+      "recent_summary": "Chapter 4: This chapter concludes Kaelen the Unbroken and Princess Sylvara's journey by having them return to the Dust Plains, where they confront the passage of time, renounce their magical heritage, and are wed in a mortal ceremony. Key developments: Kaelen the Unbroken and Princess Sylvara flee the Spire of Sylvaris as King Thalandor prepares to invoke a rune.; Princess Sylvara discovers the beauty of the Dust Plains' common sights, such as haystacks and wild roses.; They arrive at Kaelen's home to find that ten years have passed and his father has died.. Emotional arc: urgency and fear -> wonder and joy -> solemnity and acceptance."
+    },
+    {
+      "chapter": 5,
+      "source_canon": "benchmark/source_canon\\chapter_05_canon.json",
+      "remixed_canon": "benchmark/remixed_canon\\chapter_05_remixed.json",
+      "chapter_spec": "benchmark/chapter_specs\\chapter_05_spec.md",
+      "source_input": "benchmark/spike_inputs\\chapter_05.txt",
+      "recent_summary": "Chapter 5: This chapter establishes the domestic life of Kaelen the Unbroken and Princess Sylvara, introduces the magical upbringing of their son through Madame Morvath, and deepens the tragic realization that while love connects them, Time and Agelessness create an unbridgeable gulf between their spirits. Key developments: The men of Vaelen celebrate their union and discuss their petition to Lord Vaelen, which had sent Kaelen away.; It is revealed that Kaelen the Unbroken and Princess Sylvara have a son.; Kaelen searches for a nurse but finds none willing to care for a child of Sylvaris's royal line.. Emotional arc: joyous celebration -> hopeful anticipation -> weary realization -> poignant fear and acceptance."
+    }
+  ]
+}

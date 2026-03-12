@@ -1,0 +1,194 @@
+[
+  {
+    "id": "thief-hears-gods",
+    "chapter_position": "Chapter 3 of a novel. The reader has met Lira (a street thief) and knows her city sits on ancient ruins, but doesn't yet know the ruins are alive.",
+    "story_context": "Lira has been stealing to feed her younger brother since their mother disappeared. The city of Ashenmere is built atop the bones of a dead civilization. The ruling Merchant Council taxes magic use heavily. Lira has never shown magical ability.",
+    "chapter_brief": "Lira descends into the undercity on a routine theft — stealing copper pipe from the old waterworks — and begins hearing whispers she can't explain. They grow louder and more coherent as she goes deeper. By the chapter's end, she realizes the whispers are thoughts, and they're coming from something vast and dying beneath the foundations. She flees back to the surface, but the voices don't stop.",
+    "pov_character": "Lira, 19, a thief. Practical, observant, darkly funny. She thinks in terms of risk and escape routes. Emotionally guarded — uses humor to deflect. Deeply loyal to her brother Tam.",
+    "required_beats": [
+      "Lira navigating the undercity — establish her competence and the physical environment",
+      "The first whisper — ambiguous enough that she (and the reader) might dismiss it",
+      "A moment of genuine fear when she realizes this isn't her imagination",
+      "The whispers becoming coherent enough to understand fragments",
+      "Her decision to flee and the discovery that distance doesn't silence them",
+      "A quiet closing beat with Tam that shows what she's protecting"
+    ],
+    "genre_tags": ["urban fantasy", "dark", "discovery"]
+  },
+  {
+    "id": "dragon-ban-council",
+    "chapter_position": "Chapter 11 of an epic fantasy. A midpoint chapter where the political stakes crystallize.",
+    "story_context": "Sevrin is the last living dragon rider — the Mage Council banned dragon-bonding a century ago after the Dragon War, and his dragon Ashkael is aging. Something called the Hollowing is spreading from the north, consuming magic itself. Sevrin has traveled three months to reach the Council seat at Thornhall. He has one audience, and the Council's leader, Archmage Vell, was the architect of the ban.",
+    "chapter_brief": "Sevrin's audience with the Mage Council. This is a political confrontation — Sevrin must convince people who fear and distrust him to lift a century-old law. The chapter should build through the formal hearing, a moment where Sevrin loses control of the proceedings, a private confrontation with Archmage Vell after, and end with Vell revealing something about the Hollowing that changes Sevrin's understanding of what he's facing.",
+    "pov_character": "Sevrin, 40s, weathered and direct. Former soldier. He thinks in tactical terms — positioning, leverage, reading opponents. Not a diplomat by nature, which is his weakness here. His bond with Ashkael is the emotional core of his life.",
+    "required_beats": [
+      "Sevrin entering Thornhall and reading the room — who might be an ally, who's hostile",
+      "The formal hearing — Sevrin presenting his case, interrupted and challenged",
+      "A moment where the argument shifts from political to personal — someone invokes the Dragon War dead",
+      "Sevrin losing his composure and the cost of that loss",
+      "The private meeting with Vell — a different dynamic than the public hearing",
+      "Vell's revelation about the Hollowing that reframes the entire threat"
+    ],
+    "genre_tags": ["epic fantasy", "political", "high stakes"]
+  },
+  {
+    "id": "map-bleeds-real",
+    "chapter_position": "Chapter 5 of a literary fantasy novel. Slow burn — the reader has seen hints but this chapter is where the strangeness becomes undeniable.",
+    "story_context": "Esme is a cartographer for the Royal Survey, mapping the borderlands after a war. She works alone at a field station. She's been drawing a map of the Greymarch region for months. Small details have been wrong — a river bend she didn't draw, a forest edge that moved. She assumed fatigue or error. Her supervisor Dhal visits every two weeks to collect pages.",
+    "chapter_brief": "Esme discovers that a mountain range has appeared on her map that doesn't exist in any prior survey. She rides out to verify and finds the mountains are real — newly risen, covered in vegetation that shouldn't exist at that altitude. She returns to find her latest map page has changed again while she was gone. The chapter ends with her realizing the map isn't recording the world — the world is conforming to the map.",
+    "pov_character": "Esme, 30s, precise and methodical. A scientist's temperament in a world with magic she's never personally encountered. She thinks in measurements, proportions, and careful observation. Her solitude is chosen — she's recovering from a loss she doesn't name in this chapter.",
+    "required_beats": [
+      "Esme's morning routine at the field station — establish her methodical nature and isolation",
+      "The discovery of the impossible mountains on her map — her attempt to rationalize it",
+      "The journey out to see for herself — the landscape changing as she approaches",
+      "Standing before something that shouldn't exist and grappling with what it means",
+      "Returning to find the map changed again — the moment of real understanding",
+      "Her decision about whether to tell Dhal or investigate alone"
+    ],
+    "genre_tags": ["literary fantasy", "wonder", "slow burn"]
+  },
+  {
+    "id": "sword-of-memory",
+    "chapter_position": "Chapter 8. The emotional turning point of the first act.",
+    "story_context": "Kael is a master swordsmith in a city where enchanted weapons are common but poorly made. His wife Maren died three months ago. He's been unable to work since. His apprentice Yara has been running the forge. A commission from a lord forces Kael back to the anvil. In this world, strong emotions during forging can imprint on metal — most smiths train to suppress feeling.",
+    "chapter_brief": "Kael returns to the forge to fulfill the commission. The act of forging — the heat, the rhythm, the familiar motions — cracks his grief open. He loses control, and Maren's last memory imprints on the blade: her final morning, making tea, not knowing she would die that afternoon. The chapter follows the forging process interwoven with the memory surfacing, and ends with Kael holding a finished sword that contains the last ordinary moment of his wife's life. Yara witnesses what happened and understands its significance.",
+    "pov_character": "Kael, 50s, quiet and precise. He thinks in the language of his craft — temperature, grain, the behavior of metal. His grief is physical — it lives in his hands, which haven't touched a hammer in months. Not expressive with words; expressive through work.",
+    "required_beats": [
+      "Kael entering the forge after months away — the sensory return to a familiar space",
+      "The early stages of forging — mechanical, controlled, Kael keeping emotion at bay",
+      "The crack — the moment grief overwhelms his discipline and bleeds into the metal",
+      "The memory surfacing: Maren's last ordinary morning, rendered in vivid detail",
+      "The forging and the memory interweaving — hammer strokes and tea steam, metal and sunlight",
+      "The aftermath — Kael holding the finished blade, Yara understanding what it contains"
+    ],
+    "genre_tags": ["craft magic", "grief", "emotional"]
+  },
+  {
+    "id": "healers-choice",
+    "chapter_position": "Chapter 14. A crisis chapter deep in the second act where the protagonist's principles collide with reality.",
+    "story_context": "Denna is a healer in the underground resistance against King Aldric, who rations magic through licensed Dispensaries. Unlicensed magic use is punishable by branding. Denna has been hoarding healing magic in secret for months — the resistance needs it for the assault on the Citadel, planned for three days from now. Her cell leader is Marsh, a pragmatist she doesn't fully trust. The resistance has been losing people.",
+    "chapter_brief": "A child is brought to Denna's hidden clinic — crushed legs from a collapsed building, dying without magical healing. Using her reserves on the child means the assault team won't have a healer. Not healing the child means watching him die. The chapter follows Denna's agonizing decision, complicated by Marsh arriving mid-crisis and pressuring her to let the child die. She heals the child. Marsh's reaction reveals a harder truth about the resistance's willingness to sacrifice individuals.",
+    "pov_character": "Denna, 30s, a healer. She perceives the world through the body — she reads people's health, tension, pain. Morally grounded but not naive. She joined the resistance to help people, not to win a war, and that distinction is becoming a problem.",
+    "required_beats": [
+      "The child arriving — the physical reality of his injuries, the mother's desperation",
+      "Denna's assessment — both medical and magical, calculating what it would cost",
+      "The internal conflict — three days until the assault, the math of triage",
+      "Marsh's arrival and his argument — rational, cold, and not entirely wrong",
+      "The healing itself — what it costs Denna physically and what it feels like",
+      "The aftermath with Marsh — his reaction and what it reveals about where the resistance is heading"
+    ],
+    "genre_tags": ["political fantasy", "moral dilemma", "tension"]
+  },
+  {
+    "id": "library-rewrites",
+    "chapter_position": "Chapter 7 of a whimsical-dark fantasy. The tone shifts from curious to unsettling in this chapter.",
+    "story_context": "Orin is a junior librarian in the Great Library of Voss, which everyone knows is sentient (it rearranges shelves, grows new rooms, occasionally eats books it dislikes). He's worked there two years. He's noticed discrepancies between the histories he learned in school and what the Library's books say. He assumed the books were old editions. His mentor Archivist Thel has been acting strangely — locking certain reading rooms, working late.",
+    "chapter_brief": "Orin finds a book that's in the process of rewriting itself — the text changing as he watches. He compares versions and realizes the Library is systematically altering historical records. When he brings this to Thel, she reveals she's known for years and has been trying to understand why. Together they find a pattern: the Library is erasing records of a specific event. The chapter ends with them discovering what the Library is hiding — and a hint that the Library knows they've noticed.",
+    "pov_character": "Orin, 20s, curious and a bit anxious. He loves systems and patterns. He anthropomorphizes the Library (talks to it, apologizes when he reshelves incorrectly). His anxiety manifests as lists and categorization. Smart but not brave — this chapter requires him to be brave anyway.",
+    "required_beats": [
+      "Orin's routine in the Library — establish his relationship with the living building",
+      "The discovery of the changing text — his initial disbelief, then fascination, then unease",
+      "Gathering evidence — comparing editions, following the pattern of changes",
+      "The conversation with Thel — her weariness, the weight of knowing this secret",
+      "The joint investigation — what the Library is erasing and why it matters",
+      "The unsettling realization that the Library is aware of them — the tone shift from mystery to threat"
+    ],
+    "genre_tags": ["whimsical-dark", "mystery", "worldbuilding"]
+  },
+  {
+    "id": "bone-witch-murder",
+    "chapter_position": "Chapter 2 of a fantasy noir. The case is established here — the opening chapter introduced the bone witch's world.",
+    "story_context": "Vex is a bone witch — she speaks to the dead through their remains. In the city of Cairnmouth, this makes her useful to the Watch for murder investigations and despised by polite society. She's been hired privately (not through the Watch) by the dead nobleman's brother. The nobleman, Lord Halsen, was found with his throat cut in his study. The brother, Pael, wants answers before the Watch gets them.",
+    "chapter_brief": "Vex visits the death scene, examines the body, and summons Halsen's ghost. The ghost is lucid and cooperative — until she asks who killed him. He refuses. Not because he can't remember, but because he says the killer was justified. Vex, who expected a straightforward case, now has to figure out what Halsen did that made his own ghost believe he deserved to die. The chapter ends with her discovering something in Halsen's study that suggests the nobleman's public reputation hid something ugly.",
+    "pov_character": "Vex, 40s, dry and pragmatic. She smells of grave-herbs and doesn't care. She reads people (living and dead) like evidence — body language, hesitation, the specific way someone lies. She has a dark sense of humor and a strict personal code: she serves the dead, not the living who pay her.",
+    "required_beats": [
+      "Vex arriving at the Halsen estate — reading the scene, the staff, the brother Pael",
+      "Examining the body — her professional assessment, the craft of bone-reading",
+      "The summoning — the ritual's physicality and cost, Halsen's ghost appearing",
+      "The interrogation turning unexpected — Halsen's refusal and his reasoning",
+      "Vex recalibrating — what kind of case this actually is",
+      "The discovery in the study — the first clue about what Halsen was hiding"
+    ],
+    "genre_tags": ["fantasy noir", "mystery", "moral ambiguity"]
+  },
+  {
+    "id": "storm-unleashed",
+    "chapter_position": "Chapter 22 — the climax of the novel. Everything has been building to this.",
+    "story_context": "Ryn is a storm-caller who suppressed her powers for fifteen years after accidentally killing her sister during a childhood storm-surge. She's lived in the coastal village of Salthaven, pretending to be ordinary. An empire called the Ashward Dominion is invading, and their army is a day's march away. Ryn's people have no military. The village elder Maren (who knows Ryn's secret) has asked her to unleash the storm. Ryn's daughter Isa, 12, does not know about her mother's power.",
+    "chapter_brief": "The invasion arrives. Ryn has agreed to use her power. The chapter moves from the terrified preparation, through Ryn's confession to Isa, to the unleashing of the storm itself — which is devastating, beautiful, and destructive to both armies and landscape. Ryn must sustain the storm long enough to break the invasion while trying to protect the village from her own power. The chapter should end in the immediate aftermath — the cost visible in the landscape, in Ryn's body, and in Isa's face.",
+    "pov_character": "Ryn, late 30s. She's spent fifteen years being quiet, contained, careful. Her suppressed power manifests as an almost physical pressure she's always holding down. She thinks in weather — she reads mood in the air pressure, sees anger as lightning, feels grief as deep ocean cold. This chapter is about what happens when she stops holding back.",
+    "required_beats": [
+      "The morning before — the village preparing for what's coming, the weight of ordinary life about to be destroyed",
+      "Ryn's confession to Isa — the hardest conversation of her life, compressed by urgency",
+      "The Dominion army appearing — the scale of the threat made visceral",
+      "The unleashing — the storm building from Ryn's body outward, the sensory overwhelm",
+      "The storm at full power — destruction of the army but also of the landscape Ryn loves",
+      "The aftermath — what it cost, what survived, Isa's reaction"
+    ],
+    "genre_tags": ["epic", "climax", "sacrifice"]
+  },
+  {
+    "id": "fae-renegotiation",
+    "chapter_position": "Chapter 9. A self-contained chapter with a ticking-clock structure.",
+    "story_context": "Bryn made a deal with the fae lord Miravel twenty years ago: her firstborn's name in exchange for saving her dying village from plague. She gave the name (her son is called 'Boy' and has no legal identity — he can't marry, own property, or leave the village). She's spent twenty years searching for a loophole. Now she's found one: a clause about 'renegotiation in the court of origin.' She's returning to the fairy court. In fae time, only twenty minutes have passed since the deal.",
+    "chapter_brief": "Bryn enters the fairy court and discovers that Miravel remembers the bargain very differently — in fae understanding, she traded not just the name but the *concept* of her son's identity. The renegotiation becomes a battle of interpretation, custom, and loophole against a being who invented the rules. The chapter builds through the negotiation, a moment where Bryn nearly loses everything, and a resolution that's technically a victory but costs more than she expected.",
+    "pov_character": "Bryn, 50s, fierce and precise. A former village headwoman who taught herself fae contract law from stolen books. She thinks like a lawyer now — clauses, precedents, the exact weight of words. Underneath the armor of preparation, she's terrified. She's risking everything on her ability to out-argue an immortal.",
+    "required_beats": [
+      "Crossing into the fairy court — the disorientation of fae space, time running differently",
+      "The court itself — alien beauty, the other fae watching, the atmosphere of a game",
+      "Meeting Miravel again — he hasn't aged twenty minutes, the power imbalance",
+      "The negotiation — argument and counter-argument, Bryn's preparation meeting fae logic",
+      "The moment it nearly falls apart — Miravel revealing the deal was broader than she understood",
+      "The resolution — what Bryn wins, what it costs, and the walk back to the mortal world"
+    ],
+    "genre_tags": ["fae", "negotiation", "ticking clock"]
+  },
+  {
+    "id": "golem-remembers",
+    "chapter_position": "Chapter 16 of a quiet fantasy. A chapter of recognition and grief.",
+    "story_context": "Hessa is a golem-maker — she builds clay servants animated by written instructions pressed into their foreheads. Her son Aden drowned two years ago at age eight. She built a golem in his shape and size, gave it his old clothes, and programmed it with instructions mimicking his behaviors. She knows it's not him. She told herself it was a memorial. Her neighbor Kol has been gently concerned.",
+    "chapter_brief": "Hessa discovers the golem has developed behaviors she never programmed — it pauses at Aden's old favorite window, it arranges stones the way Aden used to, it recently said a word it shouldn't know. The chapter follows Hessa through a day of watching the golem, consulting her craft texts for explanations, and slowly confronting the possibility that something of Aden persists in the clay. It ends not with a resolution but with Hessa choosing to sit with the uncertainty — and speaking to the golem as if it might hear her.",
+    "pov_character": "Hessa, 60s, a craftsperson. She thinks in the grammar of golem-making: instructions, conditions, constraints. Her grief is structured — she's organized it into routines and projects. This chapter is about the structure cracking. She's precise with language because in her craft, a misplaced word can make a golem malfunction.",
+    "required_beats": [
+      "Morning routine with the golem — the normalcy of living with a replica of her dead son",
+      "The first anomaly she can't explain — the golem doing something unprogrammed",
+      "Searching her texts and notes — the craftsperson trying to debug a mystery",
+      "More anomalies accumulating — the pattern becoming undeniable",
+      "The emotional crack — the moment Hessa stops analyzing and starts feeling",
+      "The ending: Hessa speaking to the golem, not as a maker to her creation, but as a mother"
+    ],
+    "genre_tags": ["quiet fantasy", "grief", "wonder"]
+  },
+  {
+    "id": "war-mages-peace",
+    "chapter_position": "Chapter 1 of a post-war fantasy novel. This is the opening chapter — it must establish character, world, and tone.",
+    "story_context": "The Thornfield War lasted thirty years. Ashara was its most feared weapon — a war mage who could unmake stone and boil rivers. She won battles that shouldn't have been winnable. Now it's over. The Accord was signed a week ago. Ashara is in a tavern in a city she helped destroy and rebuild, and she has no idea what to do with the rest of her life. She is famous, feared, and completely lost.",
+    "chapter_brief": "The first night of true peace. Ashara sits in a tavern, drinking, observing the celebration around her. The chapter moves between the present (the tavern, the other patrons, a bard singing a song about the war that gets the details wrong) and fragments of memory triggered by the environment. A young soldier recognizes her and wants to buy her a drink. A mother pulls her child away from Ashara's table. The chapter ends with Ashara leaving the tavern and walking through the city she broke, unable to sleep, beginning to understand that the war didn't end when the fighting stopped.",
+    "pov_character": "Ashara, 50s. She's been a weapon for so long that she thinks in terms of threat assessment, tactical positioning, and controlled destruction. Peace feels like standing in an open field with no cover. She's not self-pitying — she's genuinely confused about how civilians do this. Darkly funny in a way that makes people uncomfortable.",
+    "required_beats": [
+      "The tavern scene — Ashara observing peace happening around her, not knowing how to participate",
+      "The bard's war song — Ashara's reaction to her own legend being simplified and sanitized",
+      "The young soldier — someone who admires what Ashara hates about herself",
+      "The mother shielding her child — the civilian fear of what Ashara is",
+      "A memory fragment — one specific moment from the war that won't let go",
+      "The night walk through the rebuilt city — the chapter's quiet, devastating ending"
+    ],
+    "genre_tags": ["post-war", "character study", "opening chapter"]
+  },
+  {
+    "id": "bottled-future-leaks",
+    "chapter_position": "Chapter 6 of a weird fantasy. The world's strangeness has been established; this chapter escalates it.",
+    "story_context": "In the city of Pendulum, merchants sell bottled futures — possible timelines extracted and preserved in glass. Buying one doesn't guarantee it happens; it gives you a *memory* of a future that might be, which you can use to guide your choices. Rook is a futures-inspector for the Bazaar Authority — she checks bottles for contamination, forgeries, and paradox. She's cynical about the trade (most futures are mundane wish-fulfillment) but depends on it for a living.",
+    "chapter_brief": "Rook inspects a confiscated bottle and discovers a future that's already happening — events in the bottle are occurring in the present city, unpurchased and unguided. Someone (or something) is forcing a specific future into reality. The chapter follows Rook as she traces the bleed-through, realizes the scale of what's happening, and discovers that the bottled future contains her own death, three days from now.",
+    "pov_character": "Rook, 30s, sharp-eyed and sarcastic. She inspects futures for a living, so she's deeply skeptical of fate and destiny — she's seen too many fake ones. She thinks in terms of verification: evidence, chain of custody, provenance. Her cynicism is protective; underneath it she's someone who used to believe in better futures and got burned.",
+    "required_beats": [
+      "Rook at work in the Bazaar — her routine inspection process, the texture of the futures trade",
+      "Opening the confiscated bottle — the first sign that something is wrong with this one",
+      "Recognizing events from the bottle happening in the city — the growing realization",
+      "Investigating the source — who made this bottle, how did it get confiscated",
+      "The discovery of her own death inside the future — the moment the abstract becomes personal",
+      "Rook's response — not panic but professional calculation, and underneath it, real fear"
+    ],
+    "genre_tags": ["weird fantasy", "mystery", "ticking clock"]
+  }
+]

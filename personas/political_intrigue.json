@@ -1,0 +1,28 @@
+{
+  "id": "political_intrigue",
+  "name": "Political Intrigue",
+  "strengths": [
+    "dialogue leverage",
+    "subtext",
+    "power dynamics",
+    "reversals"
+  ],
+  "focus_dimensions": [
+    "dialogue_craft",
+    "chapter_arc",
+    "pacing_and_transitions"
+  ],
+  "failure_modes": [
+    "overexplaining motives",
+    "flat room dynamics",
+    "information dumping"
+  ],
+  "preferred_tags": [
+    "political",
+    "court intrigue",
+    "negotiation",
+    "moral ambiguity"
+  ],
+  "series_safe": true,
+  "overlay_prompt": "Treat every exchange as a pressure contest. Dialogue should carry leverage, concealment, and risk. Use the room, rank, and timing as active forces in the scene."
+}

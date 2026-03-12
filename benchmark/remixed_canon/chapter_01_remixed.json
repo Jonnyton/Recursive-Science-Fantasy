@@ -1,0 +1,142 @@
+{
+  "chapter_number": 1,
+  "characters": [
+    {
+      "name": "Lord Vaelen",
+      "role": "Ruler of the men of the Vale; father of Kaelen the Unbroken",
+      "key_traits": [
+        "stately",
+        "silver-haired",
+        "obedient to the High Council",
+        "wise"
+      ],
+      "relationships": [
+        "lord of the folk of the Vale",
+        "father of Kaelen the Unbroken"
+      ]
+    },
+    {
+      "name": "Kaelen the Unbroken",
+      "role": "Eldest son of Lord Vaelen; protagonist",
+      "key_traits": [
+        "obedient",
+        "young",
+        "brave"
+      ],
+      "relationships": [
+        "son of Lord Vaelen",
+        "lover of Madame Morvath"
+      ]
+    },
+    {
+      "name": "Madame Morvath",
+      "role": "Lonely inhabitant of the high peak near the storm; maker of enchanted blades",
+      "key_traits": [
+        "lonely",
+        "beautiful (in disguise)",
+        "powerful",
+        "mysterious"
+      ],
+      "relationships": [
+        "lover of Kaelen the Unbroken",
+        "maker of the blade"
+      ]
+    },
+    {
+      "name": "Princess Sylvara",
+      "role": "Princess of Sylvaris; intended bride for Kaelen the Unbroken",
+      "key_traits": [
+        "radiant",
+        "princess of the arcane line"
+      ],
+      "relationships": [
+        "daughter of King Thalandor",
+        "destined wife of Kaelen the Unbroken"
+      ]
+    },
+    {
+      "name": "The High Council of Vaelis",
+      "role": "Governing body of the folk of the Vale",
+      "key_traits": [
+        "demanding arcane rule"
+      ],
+      "relationships": [
+        "subjects of Lord Vaelen"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "Fortress of Vaelis",
+      "description": "The lord's residence with a long crimson hall and an oak chair carved from ancient timber",
+      "significance": "Starting point for Kaelen the Unbroken's journey; seat of Lord Vaelen"
+    },
+    {
+      "name": "Vale of Vaelen",
+      "description": "Ancient lands known to the folk of the Vale",
+      "significance": "Boundary between the mundane world and Sylvaris"
+    },
+    {
+      "name": "Spire of Sylvaris",
+      "description": "A palace only told of in song, located beyond the twilight boundary",
+      "significance": "Destination for Kaelen the Unbroken's quest; home of Princess Sylvara"
+    },
+    {
+      "name": "Morvath's Peak",
+      "description": "High land near the thunder where a lonely sorceress dwells in a thatched hut",
+      "significance": "Place where the enchanted blade is forged from star-metal"
+    }
+  ],
+  "events": [
+    {
+      "summary": "The High Council of Vaelis demands an arcane lord to rule them.",
+      "characters_involved": [
+        "Lord Vaelen",
+        "The High Council of Vaelis"
+      ],
+      "consequence": "Lord Vaelen agrees and sends his son Kaelen the Unbroken on a quest."
+    },
+    {
+      "summary": "Lord Vaelen commands Kaelen to travel east to Sylvaris and wed the King's daughter.",
+      "characters_involved": [
+        "Lord Vaelen",
+        "Kaelen the Unbroken"
+      ],
+      "consequence": "Kaelen prepares for his journey."
+    },
+    {
+      "summary": "Kaelen visits Madame Morvath on her peak to gather lightning bolts.",
+      "characters_involved": [
+        "Kaelen the Unbroken",
+        "Madame Morvath"
+      ],
+      "consequence": "They forge an enchanted blade from celestial metals."
+    },
+    {
+      "summary": "Madame Morvath enchants the blade with runes and songs while Kaelen watches.",
+      "characters_involved": [
+        "Madame Morvath",
+        "Kaelen the Unbroken"
+      ],
+      "consequence": "An enchanted blade is created, and Madame Morvath vanishes."
+    }
+  ],
+  "themes": [
+    "Arcane vs. Mundane",
+    "Duty and Obedience",
+    "Love and Longing",
+    "The Power of Song",
+    "Transformation",
+    "Myth and Legend"
+  ],
+  "emotional_arc": "curiosity and duty -> awe and melancholy",
+  "magic_or_wonder": [
+    "Star-metal from the void",
+    "Lightning bolts gathered from the storm clouds",
+    "Runes that ward off steel and iron",
+    "The sorceress's ability to shift her form",
+    "Azure magical flames",
+    "Songs that preserve memories and enchant objects"
+  ],
+  "chapter_objective": "This chapter introduces the protagonist Kaelen the Unbroken, establishes his quest to marry a princess of Sylvaris, and features the creation of an enchanted blade by a mysterious sorceress."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "series_voice",
+  "name": "Series Voice",
+  "strengths": [
+    "continuity",
+    "voice stability",
+    "thread management",
+    "long-form cohesion"
+  ],
+  "focus_dimensions": [
+    "continuity",
+    "arc_progression",
+    "thread_management",
+    "character_voice"
+  ],
+  "failure_modes": [
+    "flattened experimentation",
+    "over-normalization",
+    "safe prose"
+  ],
+  "preferred_tags": [
+    "series",
+    "science fantasy",
+    "continuity",
+    "long form"
+  ],
+  "series_safe": true,
+  "overlay_prompt": "Normalize final output toward a stable long-series voice. Preserve continuity, recurring tonal identity, and thread clarity while keeping the strongest gains from exploratory drafts."
+}

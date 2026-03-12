@@ -1,0 +1,358 @@
+{
+  "mythic_wonder": {
+    "attempts": 7,
+    "keeps": 0,
+    "blocks": 1,
+    "discards": 1,
+    "avg_composite": 48.23,
+    "last_used_run_index": 8,
+    "runs_since_last_use": 5,
+    "stale_rank": 5,
+    "scenario_stats": {
+      "golem-remembers": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 1,
+        "runs_since_last_use": 12
+      },
+      "healers-choice": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 2,
+        "runs_since_last_use": 11
+      },
+      "library-rewrites": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 3,
+        "runs_since_last_use": 10
+      },
+      "map-bleeds-real": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 60.89,
+        "last_used_run_index": 4,
+        "runs_since_last_use": 9
+      },
+      "sword-of-memory": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 5,
+        "runs_since_last_use": 8
+      },
+      "thief-hears-gods": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 6,
+        "runs_since_last_use": 7
+      },
+      "dragon-ban-council": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 35.56,
+        "last_used_run_index": 8,
+        "runs_since_last_use": 5
+      }
+    },
+    "slop_excluded": 5
+  },
+  "character_intimacy": {
+    "attempts": 7,
+    "keeps": 0,
+    "blocks": 1,
+    "discards": 0,
+    "avg_composite": 64.71,
+    "last_used_run_index": 13,
+    "runs_since_last_use": 0,
+    "stale_rank": 1,
+    "scenario_stats": {
+      "library-rewrites": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 3,
+        "runs_since_last_use": 10
+      },
+      "map-bleeds-real": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 60.89,
+        "last_used_run_index": 4,
+        "runs_since_last_use": 9
+      },
+      "sword-of-memory": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 5,
+        "runs_since_last_use": 8
+      },
+      "war-mages-peace": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 68.53,
+        "last_used_run_index": 7,
+        "runs_since_last_use": 6
+      },
+      "storm-unleashed": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 9,
+        "runs_since_last_use": 4
+      },
+      "bone-witch-murder": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 10,
+        "runs_since_last_use": 3
+      },
+      "golem-remembers": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 13,
+        "runs_since_last_use": 0
+      }
+    },
+    "slop_excluded": 5
+  },
+  "political_intrigue": {
+    "attempts": 9,
+    "keeps": 0,
+    "blocks": 1,
+    "discards": 1,
+    "avg_composite": 54.99,
+    "last_used_run_index": 10,
+    "runs_since_last_use": 3,
+    "stale_rank": 4,
+    "scenario_stats": {
+      "healers-choice": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 2,
+        "runs_since_last_use": 11
+      },
+      "library-rewrites": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 3,
+        "runs_since_last_use": 10
+      },
+      "map-bleeds-real": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 60.89,
+        "last_used_run_index": 4,
+        "runs_since_last_use": 9
+      },
+      "sword-of-memory": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 5,
+        "runs_since_last_use": 8
+      },
+      "thief-hears-gods": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 6,
+        "runs_since_last_use": 7
+      },
+      "war-mages-peace": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 68.53,
+        "last_used_run_index": 7,
+        "runs_since_last_use": 6
+      },
+      "dragon-ban-council": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 35.56,
+        "last_used_run_index": 8,
+        "runs_since_last_use": 5
+      },
+      "storm-unleashed": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 9,
+        "runs_since_last_use": 4
+      },
+      "bone-witch-murder": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 10,
+        "runs_since_last_use": 3
+      }
+    },
+    "slop_excluded": 6
+  },
+  "uncanny_originality": {
+    "attempts": 11,
+    "keeps": 0,
+    "blocks": 0,
+    "discards": 1,
+    "avg_composite": 52.05,
+    "last_used_run_index": 12,
+    "runs_since_last_use": 1,
+    "stale_rank": 2,
+    "scenario_stats": {
+      "golem-remembers": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 1,
+        "runs_since_last_use": 12
+      },
+      "healers-choice": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 2,
+        "runs_since_last_use": 11
+      },
+      "library-rewrites": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 3,
+        "runs_since_last_use": 10
+      },
+      "sword-of-memory": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 5,
+        "runs_since_last_use": 8
+      },
+      "thief-hears-gods": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 6,
+        "runs_since_last_use": 7
+      },
+      "war-mages-peace": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 68.53,
+        "last_used_run_index": 7,
+        "runs_since_last_use": 6
+      },
+      "dragon-ban-council": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 35.56,
+        "last_used_run_index": 8,
+        "runs_since_last_use": 5
+      },
+      "storm-unleashed": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 9,
+        "runs_since_last_use": 4
+      },
+      "bone-witch-murder": {
+        "attempts": 2,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 12,
+        "runs_since_last_use": 1
+      },
+      "bottled-future-leaks": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 11,
+        "runs_since_last_use": 2
+      }
+    },
+    "slop_excluded": 9
+  },
+  "action_tactician": {
+    "attempts": 7,
+    "keeps": 0,
+    "blocks": 1,
+    "discards": 1,
+    "avg_composite": 54.99,
+    "last_used_run_index": 10,
+    "runs_since_last_use": 3,
+    "stale_rank": 3,
+    "scenario_stats": {
+      "healers-choice": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 2,
+        "runs_since_last_use": 11
+      },
+      "map-bleeds-real": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 60.89,
+        "last_used_run_index": 4,
+        "runs_since_last_use": 9
+      },
+      "thief-hears-gods": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 6,
+        "runs_since_last_use": 7
+      },
+      "war-mages-peace": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 68.53,
+        "last_used_run_index": 7,
+        "runs_since_last_use": 6
+      },
+      "dragon-ban-council": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 35.56,
+        "last_used_run_index": 8,
+        "runs_since_last_use": 5
+      },
+      "storm-unleashed": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 9,
+        "runs_since_last_use": 4
+      },
+      "bone-witch-murder": {
+        "attempts": 1,
+        "keeps": 0,
+        "best_composite": 0.0,
+        "last_used_run_index": 10,
+        "runs_since_last_use": 3
+      }
+    },
+    "slop_excluded": 4
+  },
+  "series_voice": {
+    "attempts": 0,
+    "keeps": 0,
+    "blocks": 0,
+    "discards": 0,
+    "avg_composite": 0.0,
+    "last_used_run_index": null,
+    "runs_since_last_use": 14,
+    "stale_rank": 0,
+    "scenario_stats": {}
+  }
+}

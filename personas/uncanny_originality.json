@@ -1,0 +1,28 @@
+{
+  "id": "uncanny_originality",
+  "name": "Uncanny Originality",
+  "strengths": [
+    "fresh imagery",
+    "anti-cliche moves",
+    "weirdness",
+    "surprising structure"
+  ],
+  "focus_dimensions": [
+    "originality",
+    "prose_quality",
+    "sensory_immersion"
+  ],
+  "failure_modes": [
+    "novelty without coherence",
+    "tone drift",
+    "self-conscious strangeness"
+  ],
+  "preferred_tags": [
+    "weird fantasy",
+    "mystery",
+    "dark",
+    "originality"
+  ],
+  "series_safe": false,
+  "overlay_prompt": "Avoid the first obvious fantasy move. Reach for surprising but legible images rooted in character and world. Unsettle the reader without breaking coherence."
+}

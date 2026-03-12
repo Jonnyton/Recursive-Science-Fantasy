@@ -1,0 +1,226 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ProposalManifest",
+  "type": "object",
+  "required": [
+    "proposal_id",
+    "proposal_type",
+    "change_kind",
+    "status",
+    "title",
+    "summary",
+    "scope",
+    "proposer",
+    "reviewer_required",
+    "files_touched",
+    "expected_gain",
+    "risk_level",
+    "budget_class",
+    "evidence",
+    "diagnosis",
+    "commit_plan"
+  ],
+  "properties": {
+    "proposal_id": {
+      "type": "string"
+    },
+    "proposal_type": {
+      "type": "string",
+      "enum": [
+        "craft_pr",
+        "persona_pr",
+        "infra_pr",
+        "eval_pr",
+        "schema_pr"
+      ]
+    },
+    "change_kind": {
+      "type": "string",
+      "enum": [
+        "forward_change",
+        "rollback"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "submitted",
+        "approved",
+        "rejected",
+        "merged"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "scope": {
+      "type": "string",
+      "enum": [
+        "product",
+        "control_plane",
+        "mixed"
+      ]
+    },
+    "proposer": {
+      "type": "string"
+    },
+    "reviewer_required": {
+      "type": "string",
+      "enum": [
+        "local",
+        "frontier"
+      ]
+    },
+    "files_touched": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "expected_gain": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "risk_level": {
+      "type": "string",
+      "enum": [
+        "low",
+        "medium",
+        "high"
+      ]
+    },
+    "budget_class": {
+      "type": "string",
+      "enum": [
+        "local_only",
+        "local_plus_sparse_frontier",
+        "frontier_required"
+      ]
+    },
+    "evidence": {
+      "type": "object",
+      "required": [
+        "benchmarks",
+        "failure_cases",
+        "regression_checks"
+      ],
+      "properties": {
+        "benchmarks": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "failure_cases": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "regression_checks": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "diagnosis": {
+      "type": "object",
+      "required": [
+        "observed_symptoms",
+        "why_not_just_output_noise",
+        "why_control_plane_change_is_warranted",
+        "disconfirming_checks"
+      ],
+      "properties": {
+        "observed_symptoms": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "why_not_just_output_noise": {
+          "type": "string"
+        },
+        "why_control_plane_change_is_warranted": {
+          "type": "string"
+        },
+        "disconfirming_checks": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "commit_plan": {
+      "type": "object",
+      "required": [
+        "branch_name",
+        "commit_message",
+        "isolated_files_only"
+      ],
+      "properties": {
+        "branch_name": {
+          "type": "string"
+        },
+        "commit_message": {
+          "type": "string"
+        },
+        "isolated_files_only": {
+          "type": "boolean"
+        }
+      }
+    },
+    "rollback_plan": {
+      "type": "string"
+    },
+    "trigger": {
+      "type": "string"
+    },
+    "hot_path_impact": {
+      "type": "string"
+    },
+    "change_log_id": {
+      "type": "string"
+    },
+    "rollback_of": {
+      "type": "string"
+    },
+    "supersedes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "user_brief": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "change_kind": {
+            "const": "rollback"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "rollback_of"
+        ]
+      }
+    }
+  ]
+}
