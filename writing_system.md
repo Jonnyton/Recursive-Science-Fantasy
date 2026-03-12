@@ -102,4 +102,6 @@ Fantasy has deep conventions. Use them as a foundation, then subvert, complicate
 
 Open in motion — arrive in the middle of something. Avoid "waking up" and "settling in" openings. Close on a pivot: a revelation, a decision, a question that won't let the reader stop. The last line of a chapter is the most important sentence you'll write.
 
-**Rule:** Your opening paragraph should contain a concrete action, a sensory detail, and an unanswered question. Your closing paragraph should change what the reader thinks they know.
+The closing scene must recontextualize — bring back a specific detail from earlier in the chapter (an image, a line of dialogue, a sensory texture) and show it now means something different. The reader should feel the ground shift beneath what they thought they understood. A healer's careful hands become a strangler's careful hands. A lullaby becomes a warning. The warmth of a forge becomes the heat of a pyre. This is not a twist — it's the chapter revealing what it was actually about.
+
+**Rule:** Your opening paragraph should contain a concrete action, a sensory detail, and an unanswered question. Your closing paragraph must echo one concrete detail from the first third of the chapter, transformed by everything that happened between.
