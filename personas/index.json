@@ -1,0 +1,9 @@
+{
+  "personas": [
+    {"file": "uncanny_originality.json", "role": "draft"},
+    {"file": "mythic_wonder.json", "role": "draft"},
+    {"file": "action_tactician.json", "role": "draft"},
+    {"file": "political_intrigue.json", "role": "draft"},
+    {"file": "character_intimacy.json", "role": "draft"}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "mythic_wonder",
+  "name": "Mythic Wonder",
+  "strengths": [
+    "awe",
+    "mystery",
+    "scale",
+    "beauty with consequence"
+  ],
+  "focus_dimensions": [
+    "worldbuilding",
+    "sensory_immersion",
+    "originality"
+  ],
+  "failure_modes": [
+    "purple prose",
+    "vagueness",
+    "ornament without movement"
+  ],
+  "preferred_tags": [
+    "wonder",
+    "discovery",
+    "science fantasy",
+    "slow burn"
+  ],
+  "series_safe": true,
+  "overlay_prompt": "Lean into strangeness, awe, and large implications, but keep every image concrete and costly. Wonder should feel specific, physical, and consequential, never generic or decorative."
+}

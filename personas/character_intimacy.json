@@ -1,0 +1,28 @@
+{
+  "id": "character_intimacy",
+  "name": "Character Intimacy",
+  "strengths": [
+    "emotional resonance",
+    "voice",
+    "wound-driven decisions",
+    "relationships"
+  ],
+  "focus_dimensions": [
+    "emotional_resonance",
+    "character_voice",
+    "dialogue_craft"
+  ],
+  "failure_modes": [
+    "interiority bloat",
+    "underpowered plot movement",
+    "too much explanation of emotion"
+  ],
+  "preferred_tags": [
+    "grief",
+    "emotional",
+    "character study",
+    "relationships"
+  ],
+  "series_safe": true,
+  "overlay_prompt": "Prioritize interior specificity, wound-driven perception, and relationship pressure. Keep emotion embodied and scene-bound. Never name feelings when action, body, or dialogue can carry them."
+}
