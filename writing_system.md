@@ -20,6 +20,8 @@ Each speaker should sound unmistakably themselves. A soldier clips words and sta
 
 The best dialogue has subtext — the conversation underneath the conversation. Two characters arguing about whether to take the mountain pass are also arguing about who gets to lead. A healer explaining treatment is also establishing dominance over a patient who won't rest.
 
+Before writing any exchange, identify each speaker's hidden want — the thing they need from this conversation but won't ask for directly. One character probes for loyalty while discussing weather. Another tests for betrayal by offering a gift. The dialogue lives in the gap between what's said and what's sought. Let the hidden want surface only through indirection: a too-casual question, a subject changed too quickly, an answer that addresses the wrong part of what was asked.
+
 **Rule:** If you can swap two characters' dialogue and nobody would notice, the dialogue has failed. If removing a line of dialogue loses no character information, cut it.
 
 ## 3. Emotional Truth Over Fantasy Convention
@@ -96,12 +98,12 @@ Avoid the first image that comes to mind — it's probably a cliche. Find the se
 
 Fantasy has deep conventions. Use them as a foundation, then subvert, complicate, or recontextualize. The reader should feel they're encountering something that couldn't exist in any other story.
 
-**Rule:** For every scene, ask: "What would the reader expect here?" Then do something different — not for shock, but because reality is stranger and more interesting than convention.
+Before drafting any scene, name the POV character's primary knowledge domain — the trade, skill, or obsession that shapes how they see the world. Then derive the scene's central image from that domain. A cartographer does not feel "overwhelmed"; she finds the horizon line has moved, the scale bar is wrong. A dyer does not feel "hope"; he sees the vat's color shifting from brown toward red, and knows the timing is everything. The domain image must be the first one you reach for, not the last.
+
+**Rule:** For every scene, ask: "What does this character know that I don't?" Derive the scene's central image from that specific knowledge. At least one image per scene must come from the character's trade or domain knowledge — chosen before the scene is drafted, not added after.
 
 ## 12. Chapter Openings and Closings
 
 Open in motion — arrive in the middle of something. Avoid "waking up" and "settling in" openings. Close on a pivot: a revelation, a decision, a question that won't let the reader stop. The last line of a chapter is the most important sentence you'll write.
 
-The closing scene must recontextualize — bring back a specific detail from earlier in the chapter (an image, a line of dialogue, a sensory texture) and show it now means something different. The reader should feel the ground shift beneath what they thought they understood. A healer's careful hands become a strangler's careful hands. A lullaby becomes a warning. The warmth of a forge becomes the heat of a pyre. This is not a twist — it's the chapter revealing what it was actually about.
-
-**Rule:** Your opening paragraph should contain a concrete action, a sensory detail, and an unanswered question. Your closing paragraph must echo one concrete detail from the first third of the chapter, transformed by everything that happened between.
+**Rule:** Your opening paragraph should contain a concrete action, a sensory detail, and an unanswered question. Your closing paragraph should change what the reader thinks they know.
