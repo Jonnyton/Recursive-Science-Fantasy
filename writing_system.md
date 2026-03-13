@@ -100,6 +100,8 @@ Fantasy has deep conventions. Use them as a foundation, then subvert, complicate
 
 Before drafting any scene, name the POV character's primary knowledge domain — the trade, skill, or obsession that shapes how they see the world. Then derive the scene's central image from that domain. A cartographer does not feel "overwhelmed"; she finds the horizon line has moved, the scale bar is wrong. A dyer does not feel "hope"; he sees the vat's color shifting from brown toward red, and knows the timing is everything. The domain image must be the first one you reach for, not the last.
 
+The character's expertise should also make the fantasy world feel genuinely strange — not just differently described, but *wrong* in ways only they would notice. A cartographer realizes the angles of a corridor add up to more than they should. A tanner sees a hide that no animal could have worn. A sailor feels a current running the wrong direction for the tide. Let the character's knowledge reveal that something about this world doesn't obey the rules they've spent their life learning. This dissonance is the engine of wonder: the expert confronting the impossible.
+
 **Rule:** For every scene, ask: "What does this character know that I don't?" Derive the scene's central image from that specific knowledge. At least one image per scene must come from the character's trade or domain knowledge — chosen before the scene is drafted, not added after.
 
 ## 12. Chapter Openings and Closings
